@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">N15_20202838</string>
+    <!--main-->
+    <string name="title_ko">코로나바이러스감염증-19</string>
+    <string name="title_en">Coronavirus Disease 2019</string>
+    <string name="title_sub">COIVD-19 | 코로나-19</string>
+
+    <!--distancing-->
+    <!--http://ncov.mohw.go.kr/socdisBoardView.do?brdId=6&brdGubun=1 의 내용을 따릅니다.-->
+    <string name="mask_1">중점·일반관리시설, 대중교통, 의료기관, 약국, 요양시설, 주야간보호시설, 집회·시위장, 실내 스포츠 경기장, 고위험 사업장 등</string>
+    <string name="mask_1.5">1단계에 실외 스포츠 경기장 추가</string>
+    <string name="mask_2">실내 전체, 위험도 높은 실외 활동</string>
+    <string name="mask_2.5_3">실내 전체, 2m 이상 거리 유지가 어려운 실외</string>
+
+    <string name="party_1">500명 이상 행사는 지자체 신고·협의 필요, 방역수칙 의무화</string>
+    <string name="party_1.5">1단계 조치 유지, 축제 등 일부 행사는 100인 이상 금지</string>
+    <string name="party_2">100인 이상 금지</string>
+    <string name="party_2.5">50인 이상 금지</string>
+    <string name="party_3">10인 이상 금지</string>
+
+    <string name="sport_1">관중 입장(50%)</string>
+    <string name="sport_1.5">관중 입장(30%)</string>
+    <string name="sport_2">관중 입장(10%)</string>
+    <string name="sport_2.5">무관중 경기</string>
+    <string name="sport_3">경기 중단</string>
+
+    <string name="bus_1_1.5">마스크 착용 의무화</string>
+    <string name="bus_2">교통수단(차량) 내 음식 섭취 금지 추가 (국제항공편 제외)</string>
+    <string name="bus_2.5">KTX, 고속버스 등 50% 이내로 예매 제한 권고 (항공기 제외)</string>
+    <string name="bus_3">KTX, 고속버스 등 50% 이내로 예매 제한 (항공기 제외)</string>
+
+    <string name="school_1">밀집도 2/3 원칙, 조정 가능</string>
+    <string name="school_1.5">밀집도 2/3 준수</string>
+    <string name="school_2">밀집도 1/3 원칙 (고등학교 2/3) 최대 2/3 내에서 운영 가능</string>
+    <string name="school_2.5">밀집도 1/3 준수</string>
+    <string name="school_3">원격수업 전환</string>
+
+    <string name="holy_1">좌석 한 칸 띄우기 모임·식사 자제 권고 (숙박행사 금지)</string>
+    <string name="holy_1.5">정규예배 등 좌석 수 의 30% 이내로 제한 모임·식사 금지</string>
+    <string name="holy_2">정규예배 등 좌석 수 의 20% 이내로 제한 모임·식사 금지</string>
+    <string name="holy_2.5">비대면, 20명 이내로 인원 제한 모임·식사 금지</string>
+    <string name="holy_3">1인 영상만 허용 모임·식사 금지</string>
+
+    <string name="com_1">기관·부서별 적정 비율 재택근무 등 실시 권고 (예: 1/5 수준)</string>
+    <string name="com_1.5_2">기관·부서별 재택근무 등 확대 권고 (예: 1/3 수준)</string>
+    <string name="com_2.5">인원의 1/3 이상 재택근무 등 권고</string>
+    <string name="com_3">필수인력 이외 재택근무 등 의무화</string>
+
+    <!--state-->
+    <string name="num1">1단계(생활방역)</string>
+    <string name="num1_5">1.5단계(지역적 유행 단계)</string>
+    <string name="num2">2단계(지역적 유행 단계)</string>
+    <string name="num2_5">2.5단계(전국적 유행 단계)</string>
+    <string name="num3">3단계(전국적 유행 단계)</string>
+    <string name="none">해당 지역 없음</string>
+    <string name="area1_5">강원도(고성군,동해시,삼척시,속초시,양양군,인제군,태백시,평창군,홍천군,화천군), 제주특별자치도</string>
+    <string name="area2">강원도(강릉시,양구군,영월군,원주시,정선군,철원군,춘천시,횡성군), 세종특별자치시, 대전광역시, 충청북도, 충청남도, 광주광역시, 전라북도, 전라남도, 대구광역시, 경상북도, 부산광역시, 울산광역시, 경상남도</string>
+    <string name="area2_5">서울특별시, 경기도, 인천광역시</string>
+
+    <!--corona-->
+    <string name="covid_1">SARS-CoV-2 : Coronaviridae에 속하는 RNA 바이러스</string>
+    <string name="covid_2">현재까지는 비말(침방울), 접촉을 통한 전파로 알려짐\n 기침이나 재채기를 할 때 생긴 비말(침방울)을 통한 전파 등\n 코로나19 바이러스에 오염된 물건을 만진 뒤 눈, 코, 입을 만짐</string>
+    <string name="covid_3">1~14일 (평균 4~7일)</string>
+    <string name="covid_4">발열, 권태감, 기침, 호흡곤란 및 폐렴 등 경증에서 중증까지 다양한 호흡기감염증이 나타남\n 그 외 가래, 인후통, 두통, 객혈과 오심, 설사 등도 나타남</string>
+    <string name="covid_5">대증 치료 : 수액 보충, 해열제 등 보존적 치료\n특이적인 항바이러스제 없음</string>
+    <string name="covid_6">전세계 치명률은 약 3.4%(WHO, 3.5 기준)\n단, 국가별 · 연령별 치명률 수준은 매우 상이함</string>
+</resources>
